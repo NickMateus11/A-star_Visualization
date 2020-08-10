@@ -1,6 +1,6 @@
 # A-star_Visualization
 
- - A visualization tool for the **A* algorithm**
+ - A visualization tool for the **A\* algorithm**
  - Implemented in **Python**, using the **pygame** library for graphics
 
 # How-To: Setup
